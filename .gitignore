@@ -1,3 +1,9 @@
 # IPython Notebook
 .ipynb_checkpoints
  
+*.d
+*.in
+*.h
+*.so
+*.C
+*.pcm
