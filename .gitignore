@@ -7,3 +7,5 @@
 *.so
 *.C
 *.pcm
+*.class
+*.java
