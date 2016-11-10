@@ -6,6 +6,7 @@
 *.h
 *.so
 *.C
+*.py
 *.pcm
 *.class
 *.java
